@@ -6,6 +6,11 @@ Public link
 https://public.tableau.com/app/profile/fatai.soliu/viz/NetflixWatchActivityDashboard/NetflixActivityDashboard?publish=yes
 
 # Insight and Recommendation
+-
+-
+-
+-
+-
 
 
 # Recommendation
